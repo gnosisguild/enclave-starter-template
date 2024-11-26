@@ -7,7 +7,9 @@ The **server** plays a critical role in:
 2. Managing the progression of E3 rounds by taking actions like gathering encrypted votes, computing tallies, and publishing results.
 3. Serving as a reliable nudge layer for the protocol.
 
-Additionally, this repository includes the **RISC Zero-based voting application**, designed for securely processing and tallying encrypted votes off-chain.
+Additionally, this repository includes an example of a voting application built on top of the Enclave Protocol, designed for securely processing and tallying encrypted votes off-chain.
+
+For a more detailed example, check out [CRISP](https://github.com/gnosisguild/crisp).
 
 
 ## **Overview**
